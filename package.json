@@ -1,6 +1,6 @@
 {
-  "name": "nestjs-websocket",
-  "version": "0.1.5",
+  "name": "@taraxa/nestjs-websocket",
+  "version": "0.1.6",
   "description": "Websocket Client for NestJS based on ws",
   "author": "Blockcoders Engineering <hello@blockcoders.io> & Taraxa",
   "license": "Apache",
